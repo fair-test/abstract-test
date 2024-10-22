@@ -1,0 +1,18 @@
+title: abstract-test
+authors:
+  - given-names: Dorian
+    family-names: Portillo
+    email: wheresdorian@gmail.com
+    affiliation: FAIR Data Innovations Hub
+cff-version: 1.2.0
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+abstract: description
+keywords:
+  - key
+  - word
+  - test
+license: NLOD-1.0
+repository-code: https://github.com/fair-test/abstract-test
+date-released: 2024-10-22
+version: 0.1.0
