@@ -1,0 +1,68 @@
+{
+  "name": "abstract-test",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "applicationCategory": "Action games",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codemeta:continuousIntegration": {
+    "id": "https://continue.integration"
+  },
+  "codemeta:isSourceCodeOf": {
+    "id": "source code of"
+  },
+  "codeRepository": "https://github.com/fair-test/abstract-test",
+  "contIntegration": "https://continue.integration",
+  "dateCreated": "2024-10-22",
+  "dateModified": "2024-10-22",
+  "datePublished": "2024-10-22",
+  "description": "description",
+  "developmentStatus": "inactive",
+  "downloadUrl": "https://download.url",
+  "funder": {
+    "name": "funding organization",
+    "type": "Organization"
+  },
+  "funding": "funding code",
+  "isPartOf": "https://isPartOf.com",
+  "issueTracker": "https://github.com/fair-test/abstract-test/issues",
+  "keywords": [
+    "key",
+    "word",
+    "test"
+  ],
+  "license": "https://spdx.org/licenses/NLOD-1.0",
+  "operatingSystem": [
+    "Windows 10",
+    "Windows 11"
+  ],
+  "programmingLanguage": [
+    "C",
+    "C++",
+    "C#"
+  ],
+  "relatedLink": [
+    "https://related.com",
+    "https://links.com"
+  ],
+  "runtimePlatform": [
+    ".Net"
+  ],
+  "schema:releaseNotes": "version release notes: stable",
+  "softwareRequirements": [
+    "other",
+    "software"
+  ],
+  "version": "0.1.0",
+  "type": "SoftwareSourceCode"
+}
