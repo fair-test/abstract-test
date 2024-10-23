@@ -24,7 +24,7 @@
   "codeRepository": "https://github.com/fair-test/abstract-test",
   "contIntegration": "https://continue.integration",
   "dateCreated": "2024-10-22",
-  "dateModified": "2024-10-22",
+  "dateModified": "2024-10-23",
   "datePublished": "2024-10-22",
   "description": "description",
   "developmentStatus": "inactive",
@@ -65,5 +65,5 @@
   ],
   "version": "0.0.1",
   "type": "SoftwareSourceCode",
-  "identifier": "10.5281/zenodo.120784"
+  "identifier": "10.5281/zenodo.120950"
 }
