@@ -12,8 +12,8 @@ keywords:
   - key
   - word
   - test
-license: NLOD-1.0
+license: Custom
 repository-code: https://github.com/fair-test/abstract-test
-date-released: '2024-10-23'
+date-released: '2024-10-29'
 version: 0.0.4
-doi: 10.5281/zenodo.120958
+doi: 10.5281/zenodo.122382
