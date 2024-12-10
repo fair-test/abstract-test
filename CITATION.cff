@@ -7,13 +7,12 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
+doi: 10.5281/zenodo.122806
 abstract: description
 keywords:
   - key
   - word
   - test
-license: Custom
 repository-code: https://github.com/fair-test/abstract-test
-date-released: '2024-10-29'
-version: '5'
-doi: 10.5281/zenodo.122806
+date-released: 2024-10-29
+version: "5"
