@@ -1,0 +1,38 @@
+{
+  "name": "abstract-test",
+  "@context": "https://w3id.org/codemeta/3.0",
+  "author": [
+    {
+      "affiliation": {
+        "name": "FAIR Data Innovations Hub",
+        "type": "Organization"
+      },
+      "email": "wheresdorian@gmail.com",
+      "familyName": "Portillo",
+      "id": "_:author_1",
+      "givenName": "Dorian",
+      "type": "Person"
+    }
+  ],
+  "codeRepository": "https://github.com/fair-test/abstract-test",
+  "dateCreated": "2024-10-22",
+  "dateModified": "2024-10-29",
+  "datePublished": "2024-10-29",
+  "description": "description",
+  "downloadUrl": "https://github.com/fair-test/abstract-test/releases/tag/1.4",
+  "identifier": "10.5281/zenodo.122806",
+  "issueTracker": "https://github.com/fair-test/abstract-test/issues",
+  "keywords": [
+    "key",
+    "word",
+    "test"
+  ],
+  "programmingLanguage": [
+    "C",
+    "C++",
+    "C#"
+  ],
+  "schema:releaseNotes": "**Full Changelog**: https://github.com/fair-test/abstract-test/compare/1.2...1.4",
+  "version": "5",
+  "type": "SoftwareSourceCode"
+}
