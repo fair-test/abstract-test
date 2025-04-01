@@ -50,7 +50,7 @@
   "datePublished": "2024-10-09",
   "description": "test ddescription 2",
   "downloadUrl": "https://github.com/fair-test/abstract-test/releases/tag/1.4",
-  "identifier": "10.5281/zenodo.193330",
+  "identifier": "10.5281/zenodo.120778",
   "issueTracker": "https://github.com/fair-test/abstract-test/issues",
   "keywords": [
     "key",
@@ -62,6 +62,6 @@
     "Ada"
   ],
   "schema:releaseNotes": "**Full Changelog**: https://github.com/fair-test/abstract-test/compare/1.2...1.4",
-  "version": "2.980",
+  "version": "1.09",
   "type": "SoftwareSourceCode"
 }
