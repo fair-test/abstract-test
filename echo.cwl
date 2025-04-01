@@ -3,8 +3,7 @@ cwlVersion: v1.0
 class: CommandLineTool
 inputs:
   - id: inp
-    type: string
-    inputBinding: {}
+    type: 
 outputs:
   - id: out
     type: string
