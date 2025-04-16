@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "abstract-test",
   "@context": "https://w3id.org/codemeta/3.0",
   "author": [
     {
@@ -45,11 +45,12 @@
     }
   ],
   "codeRepository": "https://github.com/megasanjay/test1",
-  "dateCreated": "2022-03-14",
-  "dateModified": "2025-04-02",
-  "datePublished": "2024-10-09",
-  "description": "test ddescription 2",
+  "dateCreated": "2022-03-13",
+  "dateModified": "2025-04-01",
+  "datePublished": "2024-10-08",
+  "description": "the description has been updated",
   "downloadUrl": "https://github.com/fair-test/abstract-test/releases/tag/1.4",
+  "funding": "input funding code",
   "identifier": "10.5281/zenodo.193935",
   "issueTracker": "https://github.com/fair-test/abstract-test/issues",
   "keywords": [
@@ -62,6 +63,6 @@
     "Ada"
   ],
   "schema:releaseNotes": "**Full Changelog**: https://github.com/fair-test/abstract-test/compare/1.2...1.4",
-  "version": "1432.345",
+  "version": "11.111.1.11",
   "type": "SoftwareSourceCode"
 }
