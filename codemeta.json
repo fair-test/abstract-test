@@ -51,7 +51,7 @@
   "description": "the description has been updated",
   "downloadUrl": "https://github.com/fair-test/abstract-test/releases/tag/1.4",
   "funding": "input funding code",
-  "identifier": "10.5281/zenodo.340205",
+  "identifier": "10.5281/zenodo.340207",
   "issueTracker": "https://github.com/fair-test/abstract-test/issues",
   "keywords": [
     "key",
@@ -63,6 +63,6 @@
     "Ada"
   ],
   "schema:releaseNotes": "**Full Changelog**: https://github.com/fair-test/abstract-test/compare/1.2...1.4",
-  "version": "123.875",
+  "version": "1.1.1",
   "type": "SoftwareSourceCode"
 }
