@@ -17,7 +17,7 @@ authors:
 cff-version: 1.2.0
 message: If you use this software, please cite it using the metadata from this file.
 type: software
-doi: 10.5281/zenodo.340219
+doi: 10.5281/zenodo.18853767
 abstract: the description has been updated
 keywords:
   - key
@@ -25,5 +25,5 @@ keywords:
   - test
 license: Zlib
 repository-code: https://github.com/megasanjay/test1
-date-released: 2025-10-01
-version: "1.687"
+date-released: '2026-03-03'
+version: '234'
