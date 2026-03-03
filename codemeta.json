@@ -46,10 +46,10 @@
   ],
   "codeRepository": "https://github.com/megasanjay/test1",
   "dateCreated": "2024-10-22",
-  "dateModified": "2025-10-01",
+  "dateModified": "2026-03-03",
   "description": "the description has been updated",
   "downloadUrl": "https://github.com/fair-test/abstract-test/releases/tag/untagged-b0aad9640bb2a8e43a73",
-  "identifier": "10.5281/zenodo.340219",
+  "identifier": "10.5281/zenodo.18853767",
   "issueTracker": "https://github.com/fair-test/abstract-test/issues",
   "keywords": [
     "key",
@@ -61,6 +61,6 @@
     "Common Workflow Language"
   ],
   "schema:releaseNotes": "**Full Changelog**: https://github.com/fair-test/abstract-test/compare/234444444...ojlkjoij",
-  "version": "1.687",
+  "version": "234",
   "type": "SoftwareSourceCode"
 }
